@@ -1,0 +1,31 @@
+#header, #footer {
+  clear: both;
+  background: lightblue;
+}
+
+p {
+  color: blue;
+}
+
+#lsb {
+  float: left;
+  width: 10%;
+  background: orange;
+}
+
+#body {
+  float: left;
+  width: 80%;
+  background: red;
+}
+
+#rsb {
+  float: left;
+  width: 10%;
+  background: green;
+}
+
+#form {
+  padding: 10px;
+}
+
