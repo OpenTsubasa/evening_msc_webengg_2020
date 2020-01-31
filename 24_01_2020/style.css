@@ -1,0 +1,25 @@
+#Header {
+
+}
+
+#LSB {
+	float: left;
+	width: 10%;
+	background: red;
+}
+
+#Body {
+	float: left;
+	width: 80%;
+	background: green;
+}
+
+#RSB {
+	float: left;
+	width: 10%;
+	background: blue;
+}
+
+#Footer {
+	clear: both;
+}
