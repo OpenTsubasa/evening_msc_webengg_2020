@@ -1,0 +1,5 @@
+4 Pages:
+Home:	index.php
+Signin:	signin.php
+Signup:	signup.php
+Admin:	admin.php
