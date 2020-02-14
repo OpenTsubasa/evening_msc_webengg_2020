@@ -1,0 +1,8 @@
+ROUTE
+URL Mapping
+MVC Pattern
+
+Model -> Database-Tables
+Controller -> Business or Validation Rules
+View -> User's Visible Info
+
